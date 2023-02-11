@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌼 I’m currently working on coding and testing
 
-💻 Ask me about Java , jira, Xray, Selenium,Cucumber,JUnit,TestNg, API,PostgreSql, Lambda
+💻 Ask me about Java, Jira, Xray, Selenium, Cucumber, JUnit, TestNg, API, PostgreSql, Lambda
 
 💌 How to reach me: nuranalbayrak03@gmail.com
 
